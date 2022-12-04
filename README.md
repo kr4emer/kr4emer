@@ -1,7 +1,7 @@
 👋 Hi, I’m Andre!<br>
-<!--🧑‍🎓 I'm a MSc Student in Business Informatics.-->
-<br>
-<br>
+<!--🧑‍🎓 I'm a MSc Student in Business Informatics.<br>
+<br>-->
+
 📚 I'm currently learning: 
 - Spring 5
 - Angular
