@@ -1,5 +1,5 @@
 👋 Hi, I’m Andre!<br>
-🧑‍🎓 I'm a MSc Student in Business Informatics.
+<!--🧑‍🎓 I'm a MSc Student in Business Informatics.-->
 <br>
 <br>
 📚 I'm currently learning: 
